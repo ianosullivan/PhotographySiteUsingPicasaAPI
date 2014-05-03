@@ -3,7 +3,7 @@
 
 ## Features
 
-* Site is built using a feed from Picasa API (Example - <cffeed name="gallery_RSS" source="https://picasaweb.google.com/data/feed/api/user/vincentmanningphotography?fields=author,entry">)
+* Site is built using a feed from Picasa API (Example - https://picasaweb.google.com/data/feed/api/user/vincentmanningphotography?fields=author,entry)
 * Menu built dynamically from gallery album titles
 * Related menu pages similarly built from album photos
 * Random site background loaded from specific background photo album feed. See action/dynamicBackground.cfm
