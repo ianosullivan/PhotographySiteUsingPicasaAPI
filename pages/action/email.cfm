@@ -6,13 +6,13 @@
 
 
 <cfmail server="localhost"
-	username="contact@vincentmanning.net"
-	password="dinglelion"
+	username="contact@example.com"
+	password="pword"
 	port="25"
 	useSSL="no"
-	to="vman@campus.ie; VincentManningPhotography@gmail.com;"
-	bcc="ian.osullivan@gmail.com"
-	from="contact@vincentmanning.net"
+	to="vman@contact@example.com; Example@gmail.com;"
+	bcc="another_guy@gmail.com"
+	from="contact@contact@example.com"
 	subject="Website email">
 Name: #name#
 Email: #email#
