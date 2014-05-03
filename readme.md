@@ -4,7 +4,7 @@
 ## Features
 
 * Site is built using a feed from Picasa API (Example - https://picasaweb.google.com/data/feed/api/user/vincentmanningphotography?fields=author,entry)
-* Menu built dynamically from gallery album titles
+* Menu built dynamically from gallery album titles. Menu is progressed faded in for added effect.
 * Related menu pages similarly built from album photos
 * Random site background loaded from specific background photo album feed. See action/dynamicBackground.cfm
 * Home page image is also randomly picked from album.
