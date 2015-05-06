@@ -10,3 +10,6 @@
 * Home page image is also randomly picked from album.
 * Uses lightbox with CSS transitions
 * Picasa is therefore acting as full photo CMS for this site. User has complete control of the photos via the Picasa (and Google Plus photos) sites.
+
+
+Example sites - http://vincentmanning.net and http://corkstonemason.com
